@@ -1,0 +1,71 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 400px;
+    margin: 250px auto;
+    background-image: linear-gradient(to right top, #b4ff0b, #e2d000, #f4a000, #f17332, #d94e4e);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(249, 248, 248, 0.833);
+}
+
+h1 {
+    color: #333;
+}
+
+/* input[type="file"] {
+    display: none;
+} */
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btn {
+    border: 2px solid rgb(84, 84, 84);
+    color: rgb(227, 226, 226);
+    background-color: rgb(1, 1, 1);
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.button-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.button-container button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+       background-color: #243205;
+       color: aliceblue;
+}
+
+.button-cross{
+    color: white;
+    background-color: black;
+}
+.error-message{
+    color:red;
+}
+.selected-file, .status-message{
+    color: green;
+}
