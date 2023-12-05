@@ -13,8 +13,8 @@ On View uploaded files, it will show Uploads will be displayed here.
 
 #### Screenshot of Frontend
 
-Landing Page
-![front page](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)
+Landing Page<br/>
+![front page](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)<br/>
 Upload a JSON file
 ![Upload a JSON file](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selectfile.png)
 Upload a file other than JSON
