@@ -15,14 +15,14 @@ On View uploaded files, it will show Uploads will be displayed here.
 
 Landing Page<br/>
 ![front page](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)<br/>
-Upload a JSON file
-![Upload a JSON file](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selectfile.png)
-Upload a file other than JSON
-![Upload a file other than JSON](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selecterrorfile.png)
-Upload Button
-![Upload Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/upload.png)
-View Button
-![View Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/View.png)
+Upload a JSON file<br/>
+![Upload a JSON file](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selectfile.png)<br/>
+Upload a file other than JSON<br/>
+![Upload a file other than JSON](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selecterrorfile.png)<br/>
+Upload Button<br/>
+![Upload Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/upload.png)<br/>
+View Button<br/>
+![View Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/View.png)<br/>
 
 
 
