@@ -11,6 +11,10 @@ Steps to follow
 On uploading a file, it will show successfully uploaded.
 On View uploaded files, it will show Uploads will be displayed here.
 
+### Screenshot of Frondend
+
+![alt text](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)
+
 
 
 
