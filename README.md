@@ -1,4 +1,4 @@
-# Upload File Frondend using React
+# Upload File Frontend using React
 
 An easy to guide to setup an React frontend to upload files.
 
@@ -11,9 +11,19 @@ Steps to follow
 On uploading a file, it will show successfully uploaded.
 On View uploaded files, it will show Uploads will be displayed here.
 
-### Screenshot of Frondend
+#### Screenshot of Frontend
 
-![alt text](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)
+Landing Page
+![front page](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/front.png)
+Upload a JSON file
+![Upload a JSON file](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selectfile.png)
+Upload a file other than JSON
+![Upload a file other than JSON](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/selecterrorfile.png)
+Upload Button
+![Upload Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/upload.png)
+View Button
+![View Button](https://github.com/Anandkrishna017/File_Upload_App/blob/main/images/View.png)
+
 
 
 
