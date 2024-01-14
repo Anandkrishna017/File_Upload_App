@@ -2,9 +2,6 @@ import React, { useState } from 'react';
 import './upload.css';
 
 
-// installed using npm install buffer --save
-window.Buffer = window.Buffer || require("buffer").Buffer;
-
 // a React functional component, used to create a simple upload input and button
 
 const Upload = () => {
